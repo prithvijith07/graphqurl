@@ -8,7 +8,8 @@ the way of that.
 
 However, for those individuals who want a bit more guidance on the best way to
 contribute to the project, read on. This document will cover what we're looking
-for. By addressing all the points we're looking for, it raises the chances we
+for. By addressing all the points we're looking for,
+it raises the chances we
 can quickly merge or address your contributions.
 
 ## Issues
